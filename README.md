@@ -6,7 +6,7 @@
 ### <div align="center">I'm Samuel, a mechatronic engineer dabbling in web development</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+<!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
 
 - 🌱 I’m currently learning React.js  
